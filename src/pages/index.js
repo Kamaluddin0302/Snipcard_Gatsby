@@ -15,6 +15,8 @@ const IndexPage = () => {
         data-item-description="High-quality replica of The Starry Night by the Dutch post-impressionist painter Vincent van Gogh."
         data-item-image="https://tse3.mm.bing.net/th?id=OIP.N-nNsFsylwYc2N5hu9ROZAHaEd&pid=Api&P=0&w=273&h=165"
         data-item-name="The Starry Night"
+        data-item-custom1-name="Size"
+        data-item-custom1-options="8|9[+5]|10[+10]|22[+15]"
       >
         Add to cart
       </button>{" "}
